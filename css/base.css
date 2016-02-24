@@ -1,0 +1,22 @@
+* {
+    font-family: '微软雅黑', sans-serif;
+    font-weight: 400;
+}
+body{
+  width: 992px;
+  margin: 0 auto 48px;
+  color: #3c3c3c;
+  -webkit-text-size-adjust: 100%;
+  background-image: -moz-linear-gradient(rgba(255, 255, 128, 0.1), rgba(255, 255, 128, 0.1)), url("../images/bg.png");
+  background-image: -webkit-linear-gradient(rgba(255, 255, 128, 0.1), rgba(255, 255, 128, 0.1)), url("../images/bg.png");
+  background-image: -o-linear-gradient(rgba(255, 255, 128, 0.1), rgba(255, 255, 128, 0.1)), url("../images/bg.png");
+  background-image: -ms-linear-gradient(rgba(255, 255, 128, 0.1), rgba(255, 255, 128, 0.1)), url("../images/bg.png");
+  background-image: linear-gradient(rgba(255, 255, 128, 0.1), rgba(255, 255, 128, 0.1)), url("../images/bg.png");
+}
+a {
+    color: rgb(89, 172, 0);
+}
+
+ul,li,ol {
+    list-style-type: none;
+}
